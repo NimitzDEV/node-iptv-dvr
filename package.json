@@ -1,0 +1,15 @@
+{
+  "name": "IPTVDVR",
+  "version": "1.0.0",
+  "description": "Recorder for TS/M3U live stream recording using ffmpeg",
+  "main": "index.js",
+  "author": "NimitzDEV",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "ffmpeg-wrap": "^1.1.0",
+    "sanitize-filename": "^1.6.1",
+    "shelljs": "^0.8.1",
+    "vorpal": "^1.12.0"
+  }
+}
